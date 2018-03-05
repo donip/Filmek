@@ -1,0 +1,127 @@
+{
+            "title": "Whiplash",
+            "timeInMinutes": 107,
+            "premierYear": 2014,
+            "categories": ["Drama", "Music"],
+            "directors": ["Damien Chazelle"],
+            "cast": [{
+                    "name": "J.K. Simmons",
+                    "characterName": "Fletcher",
+                    "birthCountry": "USA",
+                    "birthCity": "Grosse Pointe",
+                    "birthYear": 1955
+                },
+                {
+                    "name": "Miles Teller",
+                    "characterName": "Andrew",
+                    "birthCountry": "USA",
+                    "birthCity": "Downington",
+                    "birthYear": 1987
+                }
+            ]
+        },
+		
+		{
+            "title": "Casino Royale",
+            "timeInMinutes": 144,
+            "premierYear": 2006,
+            "categories": ["Action", "Thriller"],
+            "directors": ["Martin Campbell"],
+            "cast": [{
+                    "name": "Daniel Craig",
+                    "characterName": "James Bond",
+                    "birthCountry": "United Kingdom",
+                    "birthCity": "Chester",
+                    "birthYear": 1968
+                },
+				{
+                    "name": "Eva Green",
+                    "characterName": "Vesper Lynd",
+                    "birthCountry": "France",
+                    "birthCity": "Paris",
+                    "birthYear": 1980
+                }
+            ]
+        },
+		{
+            "title": "Interstellar",
+            "timeInMinutes": 169,
+            "premierYear": 2014,
+            "categories": ["Adventure", "Drama", "Sci-Fi"],
+            "directors": ["Christopher Nolan"],
+            "cast": [{
+                    "name": "Matthew McConaughey",
+                    "characterName": "Cooper",
+                    "birthCountry": "USA",
+                    "birthCity": "Uvalde",
+                    "birthYear": 1969
+                },
+                {
+                    "name": "Anne Hathaway",
+                    "characterName": "Brand",
+                    "birthCountry": "USA",
+                    "birthCity": "New York,
+                    "birthYear": 1982
+                },
+				{
+                    "name": "Jessica Chastain",
+                    "characterName": "Murph",
+                    "birthCountry": "USA",
+                    "birthCity": "Sacramento,
+                    "birthYear": 1977
+                },
+				{
+                    "name": "Matt Damon",
+                    "characterName": "Mann",
+                    "birthCountry": "USA",
+                    "birthCity": "Boston,
+                    "birthYear": 1970
+                }
+            ]
+        },
+		
+		{
+            "title": "The Martian",
+            "timeInMinutes": 144,
+            "premierYear": 2015,
+            "categories": ["Adventure", "Drama", "Sci-Fi"],
+            "directors": ["Ridley Scott"],
+            "cast": [{
+                    "name": "Matt Damon",
+                    "characterName": "Mark Watney",
+                    "birthCountry": "USA",
+                    "birthCity": "Boston,
+                    "birthYear": 1970
+                },
+                {
+                    "name": "Jessica Chastain",
+                    "characterName": "Melissa Lewis",
+                    "birthCountry": "USA",
+                    "birthCity": "Sacramento,
+                    "birthYear": 1977
+                }
+            ]
+        },
+		
+		{
+            "title": "Sicario",
+            "timeInMinutes": 121,
+            "premierYear": 2015,
+            "categories": ["Action", "Crime", "Drama"],
+            "directors": ["Denis Villeneuve"],
+            "cast": [{
+                    "name": "Emily Blunt",
+                    "characterName": "Kate Macer",
+                    "birthCountry": "United Kingdom",
+                    "birthCity": "London,
+                    "birthYear": 1983
+                },
+                {
+                    "name": "Benicio DelToro",
+                    "characterName": "Alejandro",
+                    "birthCountry": "Puerto Rico",
+                    "birthCity": "San German,
+                    "birthYear": 1967
+                }
+            ]
+        }
