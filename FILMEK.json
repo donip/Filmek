@@ -1,18 +1,12 @@
 //Miro
 {
-    "movies": [
-        {
+    "movies": [{
             "title": "Fight Club",
             "timeInMinutes": 139,
             "premierYear": 1999,
-            "categories": [
-                "Drama"
-            ],
-            "directors": [
-                "David Fincher"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama"],
+            "directors": ["David Fincher"],
+            "cast": [{
                     "name": "Brad Pitt",
                     "characterName": "Tyler Durden",
                     "birthCountry": "USA",
@@ -32,15 +26,9 @@
             "title": "The Departed",
             "timeInMinutes": 151,
             "premierYear": 2006,
-            "categories": [
-                "Mystery",
-                "Thriller"
-            ],
-            "directors": [
-                "Martin Scorsese"
-            ],
-            "cast": [
-                {
+            "categories": ["Mystery", "Thriller"],
+            "directors": ["Martin Scorsese"],
+            "cast": [{
                     "name": "Leonardo DiCaprio",
                     "characterName": "Billy",
                     "birthCountry": "USA",
@@ -60,15 +48,9 @@
             "title": "Shutter Island",
             "timeInMinutes": 138,
             "premierYear": 2010,
-            "categories": [
-                "Drama",
-                "Crime"
-            ],
-            "directors": [
-                "Martin Scorsese"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama", "Crime"],
+            "directors": ["Martin Scorsese"],
+            "cast": [{
                     "name": "Leonardo DiCaprio",
                     "characterName": "Teddy Daniels",
                     "birthCountry": "USA",
@@ -88,15 +70,9 @@
             "title": "Catch Me If You Can",
             "timeInMinutes": 141,
             "premierYear": 2003,
-            "categories": [
-                "Drama",
-                "Crime"
-            ],
-            "directors": [
-                "Steven Spielberg"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama", "Crime"],
+            "directors": ["Steven Spielberg"],
+            "cast": [{
                     "name": "Leonardo DiCaprio",
                     "characterName": "Frank Abagnale Jr.",
                     "birthCountry": "USA",
@@ -116,15 +92,9 @@
             "title": "Lord of War",
             "timeInMinutes": 122,
             "premierYear": 2005,
-            "categories": [
-                "Drama",
-                "Crime"
-            ],
-            "directors": [
-                "Andrew Niccol"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama", "Crime"],
+            "directors": ["Andrew Niccol"],
+            "cast": [{
                     "name": "Nicolas Cage",
                     "characterName": "Yuri Orlov",
                     "birthCountry": "USA",
@@ -145,14 +115,9 @@
             "title": "The Room",
             "timeInMinutes": 99,
             "premierYear": 2003,
-            "categories": [
-                "Drama"
-            ],
-            "directors": [
-                "Tommy Wiseau"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama"],
+            "directors": ["Tommy Wiseau"],
+            "cast": [{
                     "name": "Tommy Wiseau",
                     "characterName": "Johnny",
                     "birthCountry": "Poland",
@@ -172,16 +137,9 @@
             "title": "Kingdom of Heaven",
             "timeInMinutes": 194,
             "premierYear": 2005,
-            "categories": [
-                "Action",
-                "Adventure",
-                "Drama"
-            ],
-            "directors": [
-                "Ridley Scott"
-            ],
-            "cast": [
-                {
+            "categories": ["Action", "Adventure", "Drama"],
+            "directors": ["Ridley Scott"],
+            "cast": [{
                     "name": "Orlando Bloom",
                     "characterName": "Balian de Ibelin",
                     "birthCountry": "United Kingdom",
@@ -201,16 +159,9 @@
             "title": "La La Land",
             "timeInMinutes": 128,
             "premierYear": 2016,
-            "categories": [
-                "Comedy",
-                "Drama",
-                "Music"
-            ],
-            "directors": [
-                "Damien Chazelle"
-            ],
-            "cast": [
-                {
+            "categories": ["Comedy", "Drama", "Music"],
+            "directors": ["Damien Chazelle"],
+            "cast": [{
                     "name": "Ryan Gosling",
                     "characterName": "Sebastian",
                     "birthCountry": "Canada",
@@ -230,16 +181,9 @@
             "title": "Filth",
             "timeInMinutes": 97,
             "premierYear": 2013,
-            "categories": [
-                "Comedy",
-                "Drama",
-                "Crime"
-            ],
-            "directors": [
-                "Jon S. Baird"
-            ],
-            "cast": [
-                {
+            "categories": ["Comedy", "Drama", "Crime"],
+            "directors": ["Jon S. Baird"],
+            "cast": [{
                     "name": "James McAvoy",
                     "characterName": "Bruce",
                     "birthCountry": "United Kingdom",
@@ -259,14 +203,9 @@
             "title": "Trainspotting",
             "timeInMinutes": 95,
             "premierYear": 1996,
-            "categories": [
-                "Drama"
-            ],
-            "directors": [
-                "Danny Boyle"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama"],
+            "directors": ["Danny Boyle"],
+            "cast": [{
                     "name": "Ewan McGregor",
                     "characterName": "Renton",
                     "birthCountry": "United Kingdom",
@@ -287,14 +226,9 @@
             "title": "Police Academy",
             "timeInMinutes": 96,
             "premierYear": 1984,
-            "categories": [
-                "Comedy"
-            ],
-            "directors": [
-                "Hugh Wilson"
-            ],
-            "cast": [
-                {
+            "categories": ["Comedy"],
+            "directors": ["Hugh Wilson"],
+            "cast": [{
                     "name": "Steve Guttenberg",
                     "characterName": "Carey Mahoney",
                     "birthCountry": "USA",
@@ -316,20 +250,13 @@
                     "birthYear": 1944
                 }
             ]
-        },
-        {
+        }, {
             "title": "Police Academy 2",
             "timeInMinutes": 87,
             "premierYear": 1985,
-            "categories": [
-                "Comedy"
-            ],
-            "directors": [
-                " Jerry Paris",
-                "James Signorelli"
-            ],
-            "cast": [
-                {
+            "categories": ["Comedy"],
+            "directors": [" Jerry Paris", "James Signorelli"],
+            "cast": [{
                     "name": "Steve Guttenberg",
                     "characterName": "Carey Mahoney",
                     "birthCountry": "USA",
@@ -351,19 +278,13 @@
                     "birthYear": 1950
                 }
             ]
-        },
-        {
+        }, {
             "title": "Police Academy 3",
             "timeInMinutes": 83,
             "premierYear": 1986,
-            "categories": [
-                "Comdedy"
-            ],
-            "directors": [
-                "Jerry Paris"
-            ],
-            "cast": [
-                {
+            "categories": ["Comdedy"],
+            "directors": ["Jerry Paris"],
+            "cast": [{
                     "name": "Steve Guttenberg",
                     "characterName": "Carey Mahoney",
                     "birthCountry": "USA",
@@ -385,20 +306,13 @@
                     "birthYear": 1950
                 }
             ]
-        },
-        {
+        }, {
             "title": "Police Academy 4",
             "timeInMinutes": 88,
             "premierYear": 1987,
-            "categories": [
-                "Comedy",
-                "Crime"
-            ],
-            "directors": [
-                "Jim Drake"
-            ],
-            "cast": [
-                {
+            "categories": ["Comedy", "Crime"],
+            "directors": ["Jim Drake"],
+            "cast": [{
                     "name": "Steve Guttenberg",
                     "characterName": "Carey Mahoney",
                     "birthCountry": "USA",
@@ -420,20 +334,13 @@
                     "birthYear": 1958
                 }
             ]
-        },
-        {
+        }, {
             "title": "Police Academy 5",
             "timeInMinutes": 90,
             "premierYear": 1988,
-            "categories": [
-                "Comdedy",
-                "Crime"
-            ],
-            "directors": [
-                "Alan Myerson"
-            ],
-            "cast": [
-                {
+            "categories": ["Comdedy", "Crime"],
+            "directors": ["Alan Myerson"],
+            "cast": [{
                     "name": "Bubba Smith",
                     "characterName": "Moses Hightower",
                     "birthCountry": "USA",
@@ -461,16 +368,9 @@
             "title": "Beverly Hills Chihuahua",
             "timeInMinutes": 91,
             "premierYear": 2008,
-            "categories": [
-                "Adventure",
-                "Comedy",
-                "Drama"
-            ],
-            "directors": [
-                "Raja Gosnell"
-            ],
-            "cast": [
-                {
+            "categories": ["Adventure", "Comedy", "Drama"],
+            "directors": ["Raja Gosnell"],
+            "cast": [{
                     "name": "Piper Perabo",
                     "characterName": "Rachel",
                     "birthCountry": "Texas",
@@ -492,20 +392,14 @@
                     "birthYear": 1958
                 }
             ]
-        },
-        {
+
+        }, {
             "title": "Two Night Stand",
             "timeInMinutes": 86,
             "premierYear": 2014,
-            "categories": [
-                "Romance",
-                "Comedy"
-            ],
-            "directors": [
-                " Max Nichols"
-            ],
-            "cast": [
-                {
+            "categories": ["Romance", "Comedy"],
+            "directors": [" Max Nichols"],
+            "cast": [{
                     "name": "Analeigh Tipton",
                     "characterName": "Megan",
                     "birthCountry": "Minnesota",
@@ -520,20 +414,14 @@
                     "birthYear": 1987
                 }
             ]
-        },
-        {
+
+        }, {
             "title": "How to Be Single",
             "timeInMinutes": 110,
             "premierYear": 2016,
-            "categories": [
-                "Romance",
-                "Comedy"
-            ],
-            "directors": [
-                "Christian Ditter"
-            ],
-            "cast": [
-                {
+            "categories": ["Romance", "Comedy"],
+            "directors": ["Christian Ditter"],
+            "cast": [{
                     "name": "Dakota Johnson",
                     "characterName": "Alice",
                     "birthCountry": "Texas",
@@ -548,21 +436,14 @@
                     "birthYear": 1980
                 }
             ]
-        },
-        {
+
+        }, {
             "title": "The Wolf of Wall Street",
             "timeInMinutes": 180,
             "premierYear": 2013,
-            "categories": [
-                "Biography",
-                "Comedy",
-                "Crime"
-            ],
-            "directors": [
-                "Martin Scorsese"
-            ],
-            "cast": [
-                {
+            "categories": ["Biography", "Comedy", "Crime"],
+            "directors": ["Martin Scorsese"],
+            "cast": [{
                     "name": "Leonardo DiCaprio",
                     "characterName": "Jordan Belfort",
                     "birthCountry": "California",
@@ -591,22 +472,15 @@
                     "birthYear": 1969
                 }
             ]
+
         },
         {
             "title": "Shrek",
             "timeInMinutes": 90,
             "premierYear": 2001,
-            "categories": [
-                "Animation",
-                "Adventure",
-                "Comedy"
-            ],
-            "directors": [
-                "Andrew Adamson",
-                "Vicky Jenson"
-            ],
-            "cast": [
-                {
+            "categories": ["Animation", "Adventure", "Comedy"],
+            "directors": ["Andrew Adamson", "Vicky Jenson"],
+            "cast": [{
                     "name": "Mike Myers",
                     "characterName": "Shrek",
                     "birthCountry": "Texas",
@@ -628,21 +502,16 @@
                     "birthYear": 1958
                 }
             ]
+
         },
         //Péti
         {
             "title": "Django Unchained",
             "timeInMinutes": "165",
             "premierYear": "2012",
-            "categories": [
-                "Drama",
-                "Western"
-            ],
-            "directors": [
-                "Quentin Tarantino"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama", "Western"],
+            "directors": ["Quentin Tarantino"],
+            "cast": [{
                     "name": "Jamie Foxx",
                     "characterName": "Django",
                     "birthCountry": "USA",
@@ -669,14 +538,9 @@
             "title": "Gran Torino",
             "timeInMinutes": "116",
             "premierYear": "2008",
-            "categories": [
-                "Drama"
-            ],
-            "directors": [
-                "Clint Eastwood"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama"],
+            "directors": ["Clint Eastwood"],
+            "cast": [{
                     "name": "Clint Eastwood",
                     "characterName": "Walt Kowalski",
                     "birthCountry": "USA",
@@ -698,21 +562,15 @@
                     "birthYear": "1991"
                 }
             ]
+
         },
         {
             "title": "The Man Who Wasn't There",
             "timeInMinutes": "116",
             "premierYear": "2001",
-            "categories": [
-                "Crime",
-                "Drama"
-            ],
-            "directors": [
-                "Joel Coen",
-                "Ethan Coen"
-            ],
-            "cast": [
-                {
+            "categories": ["Crime", "Drama"],
+            "directors": ["Joel Coen", "Ethan Coen"],
+            "cast": [{
                     "name": "Billy Bob Thorton",
                     "characterName": "Ed Crane",
                     "birthCountry": "USA",
@@ -734,22 +592,15 @@
                     "birthYear": "1961"
                 }
             ]
+
         },
         {
             "title": "Fargo",
             "timeInMinutes": "98",
             "premierYear": "1996",
-            "categories": [
-                "Crime",
-                "Drama",
-                "Thriller"
-            ],
-            "directors": [
-                "Joel Coen",
-                "Ethan Coen"
-            ],
-            "cast": [
-                {
+            "categories": ["Crime", "Drama", "Thriller"],
+            "directors": ["Joel Coen", "Ethan Coen"],
+            "cast": [{
                     "name": "Frances McDormand",
                     "characterName": "Mildred",
                     "birthCountry": "USA",
@@ -771,21 +622,15 @@
                     "birthYear": "1957"
                 }
             ]
+
         },
         {
             "title": "The Lincoln Lawyer",
             "timeInMinutes": "118",
             "premierYear": "2011",
-            "categories": [
-                "Crime",
-                "Drama",
-                "Thriller)"
-            ],
-            "directors": [
-                "Brad Furman"
-            ],
-            "cast": [
-                {
+            "categories": ["Crime", "Drama", "Thriller)"],
+            "directors": ["Brad Furman"],
+            "cast": [{
                     "name": "Matthew McConaughey",
                     "characterName": "Mick Haller",
                     "birthCountry": "USA",
@@ -807,21 +652,16 @@
                     "birthYear": "1950"
                 }
             ]
+
         },
         //Kinga
         {
             "title": "Keserű méz",
             "timeInMinutes": 139,
             "premierYear": 1992,
-            "categories": [
-                "Drama",
-                "Thriler"
-            ],
-            "directors": [
-                "Roman Polański"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama", "Thriler"],
+            "directors": ["Roman Polański"],
+            "cast": [{
                     "name": "Emmanuelle Seigner",
                     "characterName": "Mimi",
                     "birthCountry": "France",
@@ -843,20 +683,13 @@
                     "birthYear": 1960
                 }
             ]
-        },
-        {
+        }, {
             "title": "Avatar",
             "timeInMinutes": 162,
             "premierYear": 2009,
-            "categories": [
-                "Fantasy",
-                "Sci-fi"
-            ],
-            "directors": [
-                "James Cameron"
-            ],
-            "cast": [
-                {
+            "categories": ["Fantasy", "Sci-fi"],
+            "directors": ["James Cameron"],
+            "cast": [{
                     "name": "Zoë Saldana",
                     "characterName": "Neytiri",
                     "birthCountry": "USA",
@@ -885,20 +718,13 @@
                     "birthYear": 1952
                 }
             ]
-        },
-        {
+        }, {
             "title": "Teljesen idegenek",
             "timeInMinutes": 97,
             "premierYear": 2016,
-            "categories": [
-                "Drama",
-                "Comedy"
-            ],
-            "directors": [
-                "Paolo Genovese"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama", "Comedy"],
+            "directors": ["Paolo Genovese"],
+            "cast": [{
                     "name": "Marco Giallini",
                     "characterName": "Rocco",
                     "birthCountry": "Italy",
@@ -920,19 +746,13 @@
                     "birthYear": 1979
                 }
             ]
-        },
-        {
+        }, {
             "title": "Csodás álmok jönnek",
             "timeInMinutes": 114,
             "premierYear": 1998,
-            "categories": [
-                "Drama"
-            ],
-            "directors": [
-                "Vincent Ward"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama"],
+            "directors": ["Vincent Ward"],
+            "cast": [{
                     "name": "Robin Williams",
                     "characterName": "Chris Nielsen",
                     "birthCountry": "USA",
@@ -954,19 +774,13 @@
                     "birthYear": 1968
                 }
             ]
-        },
-        {
+        }, {
             "title": "Good Will Hunting",
             "timeInMinutes": 126,
             "premierYear": 1997,
-            "categories": [
-                "Drama"
-            ],
-            "directors": [
-                "Gus Van Sant"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama"],
+            "directors": ["Gus Van Sant"],
+            "cast": [{
                     "name": "Robin Williams",
                     "characterName": "Sean Maguire",
                     "birthCountry": "USA",
@@ -994,16 +808,9 @@
             "title": "Get out",
             "timeInMinutes": 104,
             "premierYear": 2017,
-            "categories": [
-                "Horror",
-                "Mystery",
-                "Thriller"
-            ],
-            "directors": [
-                "Jordan Peele"
-            ],
-            "cast": [
-                {
+            "categories": ["Horror", "Mystery", "Thriller"],
+            "directors": ["Jordan Peele"],
+            "cast": [{
                     "name": "Daniel Kaluuya",
                     "characterName": "Chris Washington",
                     "birthCountry": "UK",
@@ -1023,15 +830,9 @@
             "title": "Three Billboards Outside Ebbing-Missouri",
             "timeInMinutes": 115,
             "premierYear": 2017,
-            "categories": [
-                "Crime",
-                "Drama"
-            ],
-            "directors": [
-                "Martin McDonagh"
-            ],
-            "cast": [
-                {
+            "categories": ["Crime", "Drama"],
+            "directors": ["Martin McDonagh"],
+            "cast": [{
                     "name": "Frances McDormand",
                     "characterName": "Mildred Hayes",
                     "birthCountry": "US",
@@ -1053,21 +854,13 @@
                     "birthYear": 1961
                 }
             ]
-        },
-        {
+        }, {
             "title": "American Made",
             "timeInMinutes": 115,
             "premierYear": 2017,
-            "categories": [
-                "Action",
-                "Biography",
-                "Comedy"
-            ],
-            "directors": [
-                "Doug Liman"
-            ],
-            "cast": [
-                {
+            "categories": ["Action", "Biography", "Comedy"],
+            "directors": ["Doug Liman"],
+            "cast": [{
                     "name": "Tom Cruise",
                     "characterName": "Barry Seal",
                     "birthCountry": "US",
@@ -1082,21 +875,13 @@
                     "birthYear": 1983
                 }
             ]
-        },
-        {
+        }, {
             "title": "Baby Driver",
             "timeInMinutes": 112,
             "premierYear": 2017,
-            "categories": [
-                "Action",
-                "Crime",
-                "Music"
-            ],
-            "directors": [
-                "Edgar Wright"
-            ],
-            "cast": [
-                {
+            "categories": ["Action", "Crime", "Music"],
+            "directors": ["Edgar Wright"],
+            "cast": [{
                     "name": "Ansel Elgort",
                     "characterName": "Baby",
                     "birthCountry": "US",
@@ -1111,20 +896,13 @@
                     "birthYear": 1989
                 }
             ]
-        },
-        {
+        }, {
             "title": "Pulp Fiction",
             "timeInMinutes": 154,
             "premierYear": 1994,
-            "categories": [
-                "Crime",
-                "Drama"
-            ],
-            "directors": [
-                "Quentin Tarantino"
-            ],
-            "cast": [
-                {
+            "categories": ["Crime", "Drama"],
+            "directors": ["Quentin Tarantino"],
+            "cast": [{
                     "name": "John Travolta",
                     "characterName": "Vincent Vega",
                     "birthCountry": "US",
@@ -1145,15 +923,9 @@
             "title": "Whiplash",
             "timeInMinutes": 107,
             "premierYear": 2014,
-            "categories": [
-                "Drama",
-                "Music"
-            ],
-            "directors": [
-                "Damien Chazelle"
-            ],
-            "cast": [
-                {
+            "categories": ["Drama", "Music"],
+            "directors": ["Damien Chazelle"],
+            "cast": [{
                     "name": "J.K. Simmons",
                     "characterName": "Fletcher",
                     "birthCountry": "USA",
@@ -1169,26 +941,20 @@
                 }
             ]
         },
-        {
+		{
             "title": "Casino Royale",
             "timeInMinutes": 144,
             "premierYear": 2006,
-            "categories": [
-                "Action",
-                "Thriller"
-            ],
-            "directors": [
-                "Martin Campbell"
-            ],
-            "cast": [
-                {
+            "categories": ["Action", "Thriller"],
+            "directors": ["Martin Campbell"],
+            "cast": [{
                     "name": "Daniel Craig",
                     "characterName": "James Bond",
                     "birthCountry": "United Kingdom",
                     "birthCity": "Chester",
                     "birthYear": 1968
                 },
-                {
+				{
                     "name": "Eva Green",
                     "characterName": "Vesper Lynd",
                     "birthCountry": "France",
@@ -1197,20 +963,13 @@
                 }
             ]
         },
-        {
+		{
             "title": "Interstellar",
             "timeInMinutes": 169,
             "premierYear": 2014,
-            "categories": [
-                "Adventure",
-                "Drama",
-                "Sci-Fi"
-            ],
-            "directors": [
-                "Christopher Nolan"
-            ],
-            "cast": [
-                {
+            "categories": ["Adventure", "Drama", "Sci-Fi"],
+            "directors": ["Christopher Nolan"],
+            "cast": [{
                     "name": "Matthew McConaughey",
                     "characterName": "Cooper",
                     "birthCountry": "USA",
@@ -1224,14 +983,14 @@
                     "birthCity": "New York",
                     "birthYear": 1982
                 },
-                {
+				{
                     "name": "Jessica Chastain",
                     "characterName": "Murph",
                     "birthCountry": "USA",
                     "birthCity": "Sacramento",
                     "birthYear": 1977
                 },
-                {
+				{
                     "name": "Matt Damon",
                     "characterName": "Mann",
                     "birthCountry": "USA",
@@ -1240,20 +999,13 @@
                 }
             ]
         },
-        {
+		{
             "title": "The Martian",
             "timeInMinutes": 144,
             "premierYear": 2015,
-            "categories": [
-                "Adventure",
-                "Drama",
-                "Sci-Fi"
-            ],
-            "directors": [
-                "Ridley Scott"
-            ],
-            "cast": [
-                {
+            "categories": ["Adventure", "Drama", "Sci-Fi"],
+            "directors": ["Ridley Scott"],
+            "cast": [{
                     "name": "Matt Damon",
                     "characterName": "Mark Watney",
                     "birthCountry": "USA",
@@ -1269,20 +1021,13 @@
                 }
             ]
         },
-        {
+		{
             "title": "Sicario",
             "timeInMinutes": 121,
             "premierYear": 2015,
-            "categories": [
-                "Action",
-                "Crime",
-                "Drama"
-            ],
-            "directors": [
-                "Denis Villeneuve"
-            ],
-            "cast": [
-                {
+            "categories": ["Action", "Crime", "Drama"],
+            "directors": ["Denis Villeneuve"],
+            "cast": [{
                     "name": "Emily Blunt",
                     "characterName": "Kate Macer",
                     "birthCountry": "United Kingdom",
